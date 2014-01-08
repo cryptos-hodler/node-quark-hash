@@ -1,0 +1,22 @@
+{
+    "name": "quark-hash",
+    "version": "0.0.1",
+    "main": "scrypthash",
+    "author": {
+        "name": "Matthew Little",
+        "email": "zone117x@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/zone117x/node-quark-hash.git"
+    },
+    "keywords": [
+        "quark",
+        "quarkcoin",
+        "qrk",
+        "hash",
+        "256",
+        "crypto",
+        "cryptocurrency"
+    ]
+}
