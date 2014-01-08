@@ -23,5 +23,6 @@ Hash your data
 
 Credits
 -------
-Uses scrypt.c written by Colin Percival
-[Neisklar](https://github.com/Neisklar/quarkcoin-hash-python) for the python module this is based off of
+
+* Uses scrypt.c written by Colin Percival
+* [Neisklar](https://github.com/Neisklar/quarkcoin-hash-python) for the python module this is based off of
