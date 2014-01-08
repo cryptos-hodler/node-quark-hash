@@ -1,6 +1,6 @@
 {
     "name": "quark-hash",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "main": "scrypthash",
     "author": {
         "name": "Matthew Little",
@@ -9,6 +9,9 @@
     "repository": {
         "type": "git",
         "url": "http://github.com/zone117x/node-quark-hash.git"
+    },
+    "dependencies" : {
+        "bindings" : "*"
     },
     "keywords": [
         "quark",
