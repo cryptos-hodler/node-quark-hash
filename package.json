@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://github.com/zone117x/node-quark-hash.git"
+        "url": "http://github.com/quark-project/node-quark-hash.git"
     },
     "dependencies" : {
         "bindings" : "*"
