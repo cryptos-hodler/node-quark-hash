@@ -1,5 +1,6 @@
 {
     "name": "quark-hash",
+    "private": true,
     "version": "0.0.3",
     "main": "scrypthash",
     "author": {
